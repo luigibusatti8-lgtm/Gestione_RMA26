@@ -1,0 +1,12 @@
+INSTALLARE GESTIONE RMA COME APP SUL TELEFONO (GitHub Pages, gratis)
+
+Una sola volta, dal PC o dal telefono:
+1. Entra su github.com con il tuo account e crea un repository nuovo (es. "gestione-rma"), Public.
+2. Add file > Upload files: carica TUTTI i file di questa cartella (index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png).
+3. Settings > Pages > Source: "Deploy from a branch", branch main, cartella /(root), Save.
+4. Dopo 1-2 minuti l'indirizzo e': https://TUONOME.github.io/gestione-rma/
+5. Sul telefono apri quell'indirizzo con Chrome: dal menu (tre puntini) scegli "Installa app".
+   L'icona "Gestione RMA" compare nella schermata Home e si apre a schermo intero.
+
+Dentro non ci sono i tuoi dati: i file Excel li scegli tu da Drive come ora.
+Per aggiornare il programma: ricarica index.html nel repository (Add file > Upload files).
